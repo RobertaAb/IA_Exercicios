@@ -1,3 +1,5 @@
+Base de dados: https://www.kaggle.com/saurabh00007/diabetescsv
+
 # IA_Exercicios
 
 Árvore de Decisão: baseado na divisão dos dados em grupos homogêneos para melhor classificação ou regressão
